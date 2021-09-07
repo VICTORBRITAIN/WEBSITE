@@ -4,3 +4,5 @@
 [0m2021.09.07 15:41:00 WARN  no build tool detected in workspace 'C:\Users\Andrew Davidson\WEBSITE'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
 Sep 07, 2021 3:42:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+Sep 07, 2021 5:12:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
