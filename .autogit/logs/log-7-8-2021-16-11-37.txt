@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Tue Sep 07 2021 16:11:37 GMT+0100 (British Summer Time)
+------------------------------------------------------
+
+Modified files:
+* .vscode/settings.json
+
+
+Created files:
+* .autogit/autogit.json
+* .metals/metals.h2.db
+* .metals/metals.lock.db
+* .metals/metals.log
+* .vscode/c_cpp_properties.json
+
+
+Deleted files:
+
+
+Renamed files:
