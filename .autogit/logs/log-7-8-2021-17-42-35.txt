@@ -1,0 +1,93 @@
+-------------------- Auto-Git Log --------------------
+		Tue Sep 07 2021 17:42:35 GMT+0100 (British Summer Time)
+------------------------------------------------------
+
+Modified files:
+* .metals/metals.log
+* .vscode/c_cpp_properties.json
+* .vscode/settings.json
+
+
+Created files:
+* .autogit/logs/log-7-8-2021-17-12-14.txt
+* CMakeLists.txt
+* build/ALL_BUILD.vcxproj
+* build/ALL_BUILD.vcxproj.filters
+* build/CMakeCache.txt
+* build/CMakeFiles/3.12.18081601-MSVC_2/CMakeCCompiler.cmake
+* build/CMakeFiles/3.12.18081601-MSVC_2/CMakeCXXCompiler.cmake
+* build/CMakeFiles/3.12.18081601-MSVC_2/CMakeDetermineCompilerABI_C.bin
+* build/CMakeFiles/3.12.18081601-MSVC_2/CMakeDetermineCompilerABI_CXX.bin
+* build/CMakeFiles/3.12.18081601-MSVC_2/CMakeRCCompiler.cmake
+* build/CMakeFiles/3.12.18081601-MSVC_2/CMakeSystem.cmake
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdC/CMakeCCompilerId.c
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdC/CompilerIdC.exe
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdC/CompilerIdC.vcxproj
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdC/Debug/CMakeCCompilerId.obj
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdC/Debug/CompilerIdC.tlog/CL.command.1.tlog
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdC/Debug/CompilerIdC.tlog/CL.read.1.tlog
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdC/Debug/CompilerIdC.tlog/CL.write.1.tlog
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdC/Debug/CompilerIdC.tlog/CompilerIdC.lastbuildstate
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdC/Debug/CompilerIdC.tlog/link.command.1.tlog
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdC/Debug/CompilerIdC.tlog/link.read.1.tlog
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdC/Debug/CompilerIdC.tlog/link.write.1.tlog
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdCXX/CompilerIdCXX.exe
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdCXX/CompilerIdCXX.vcxproj
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdCXX/Debug/CMakeCXXCompilerId.obj
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CL.command.1.tlog
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CL.read.1.tlog
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CL.write.1.tlog
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CompilerIdCXX.lastbuildstate
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdCXX/Debug/CompilerIdCXX.tlog/link.command.1.tlog
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdCXX/Debug/CompilerIdCXX.tlog/link.read.1.tlog
+* build/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdCXX/Debug/CompilerIdCXX.tlog/link.write.1.tlog
+* build/CMakeFiles/3.12.18081601-MSVC_2/VCTargetsPath.txt
+* build/CMakeFiles/3.12.18081601-MSVC_2/VCTargetsPath.vcxproj
+* build/CMakeFiles/3.12.18081601-MSVC_2/x64/Debug/VCTargetsPath.tlog/VCTargetsPath.lastbuildstate
+* build/CMakeFiles/4a11397ad636c81ba23a252c3ac7dbac/Continuous.rule
+* build/CMakeFiles/4a11397ad636c81ba23a252c3ac7dbac/Experimental.rule
+* build/CMakeFiles/4a11397ad636c81ba23a252c3ac7dbac/Nightly.rule
+* build/CMakeFiles/4a11397ad636c81ba23a252c3ac7dbac/NightlyMemoryCheck.rule
+* build/CMakeFiles/4a11397ad636c81ba23a252c3ac7dbac/PACKAGE_force.rule
+* build/CMakeFiles/4a11397ad636c81ba23a252c3ac7dbac/RUN_TESTS_force.rule
+* build/CMakeFiles/4a11397ad636c81ba23a252c3ac7dbac/generate.stamp.rule
+* build/CMakeFiles/CMakeOutput.log
+* build/CMakeFiles/TargetDirectories.txt
+* build/CMakeFiles/cmake.check_cache
+* build/CMakeFiles/feature_tests.bin
+* build/CMakeFiles/feature_tests.c
+* build/CMakeFiles/feature_tests.cxx
+* build/CMakeFiles/generate.stamp
+* build/CMakeFiles/generate.stamp.depend
+* build/CMakeFiles/generate.stamp.list
+* build/CPackConfig.cmake
+* build/CPackSourceConfig.cmake
+* build/CTestTestfile.cmake
+* build/Continuous.vcxproj
+* build/Continuous.vcxproj.filters
+* build/DartConfiguration.tcl
+* build/Experimental.vcxproj
+* build/Experimental.vcxproj.filters
+* build/Nightly.vcxproj
+* build/Nightly.vcxproj.filters
+* build/NightlyMemoryCheck.vcxproj
+* build/NightlyMemoryCheck.vcxproj.filters
+* build/PACKAGE.vcxproj
+* build/PACKAGE.vcxproj.filters
+* build/RUN_TESTS.vcxproj
+* build/RUN_TESTS.vcxproj.filters
+* build/Testing/Temporary/LastTest.log
+* build/ZERO_CHECK.vcxproj
+* build/ZERO_CHECK.vcxproj.filters
+* build/cmake_install.cmake
+* build/victorbritain.sln
+* build/victorbritain.vcxproj
+* build/victorbritain.vcxproj.filters
+* victorbritain.cpp
+
+
+Deleted files:
+
+
+Renamed files:
