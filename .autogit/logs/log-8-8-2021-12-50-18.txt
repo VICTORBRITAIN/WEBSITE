@@ -1,0 +1,30 @@
+-------------------- Auto-Git Log --------------------
+		Wed Sep 08 2021 12:50:18 GMT+0100 (British Summer Time)
+------------------------------------------------------
+
+Modified files:
+* .gitignore
+* .metals/metals.h2.db
+* .metals/metals.lock.db
+* .metals/metals.log
+* build/CMakeFiles/generate.stamp.depend
+* build/Continuous.vcxproj
+* build/Experimental.vcxproj
+* build/Nightly.vcxproj
+* build/NightlyMemoryCheck.vcxproj
+* build/Testing/Temporary/LastTest.log
+* build/ZERO_CHECK.vcxproj
+* build/victorbritain.vcxproj
+* package.json
+* yarn.lock
+
+
+Created files:
+* .autogit/logs/log-7-8-2021-18-12-52.txt
+* package-lock.json
+
+
+Deleted files:
+
+
+Renamed files:
