@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Wed Sep 08 2021 14:55:00 GMT+0100 (British Summer Time)
+------------------------------------------------------
+
+Modified files:
+* .metals/metals.h2.db
+* .metals/metals.lock.db
+* .metals/metals.log
+* .vscode/settings.json
+* build/Testing/Temporary/LastTest.log
+
+
+Created files:
+* .autogit/logs/log-8-8-2021-13-51-19.txt
+
+
+Deleted files:
+
+
+Renamed files:
