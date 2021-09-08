@@ -17,5 +17,9 @@
   "C_Cpp_Runner.enableWarnings": true,
   "C_Cpp_Runner.warningsAsError": false,
   "DockerRun.DisableDockerrc": true,
-  "python.pythonPath": "C:\\Python39\\python.exe"
+  "python.pythonPath": "C:\\Python39\\python.exe",
+  "DockerRun.Containers": [
+    "41e29b83bc47",
+    "fd23c10a91ae"
+  ]
 }
